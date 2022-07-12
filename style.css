@@ -1,0 +1,24 @@
+ h1 {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blueviolet;
+ }
+h5 {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkmagenta;
+    background-color: white;
+   
+    
+}
+h6{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}  
+body {
+  padding: 70px 70px; 
+  margin: 80px auto;
+  background:url('img/watercolor.webp') ;
+  text-align: center;
+}
